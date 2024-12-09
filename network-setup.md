@@ -9,4 +9,6 @@ Devices FROM Project:
 8. Server(Server4) Server-PT - 210.3.14.13
 9. Server(Server5) Server-PT - 210.3.14.12
 10. PC(PC5) PC-PT - 210.3.14.11
+11. PC(PC6) PC-PT - 168.90.0.6
+12. PC(PC7) PC-PT - 210.3.14.14
 
